@@ -4,3 +4,5 @@ Fixed Another UnKnown Bug
 
 
 Another bug is identified and fixed by the Developer
+
+fourth bug is fixed for the App
