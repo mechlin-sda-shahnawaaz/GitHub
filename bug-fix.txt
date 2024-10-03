@@ -7,3 +7,5 @@ Add Another chatting feature
 Another bug is identified and fixed by the Developer
 
 fifth bug is fixed and our app is currently Full Bug Proof
+
+git status is the Very Powerful Tool
