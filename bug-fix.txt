@@ -2,6 +2,8 @@ This is the file which helps us to fix the bugs
 
 Fixed Another UnKnown Bug
 
-Add Another Marketing message Section
-
 Add Another chatting feature
+
+Another bug is identified and fixed by the Developer
+
+fifth bug is fixed and our app is currently Full Bug Proof
